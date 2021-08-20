@@ -1,0 +1,44 @@
+body{
+    font-family: 'Special Elite', cursive;  
+    background-color:cadetblue; 
+}
+
+.header_div
+{
+    background-color: cornsilk;
+    color: crimson;
+}
+
+
+.header_div p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:darkgreen;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+.main_div button{
+    font-family: 'Roboto', sans-serif;
+    color:black;
+    margin-top: 30px;
+    width: 100px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.main_div h3,h4{
+    color:bisque;
+}
+
+.copyright_footer {
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(229, 248, 190);
+    color:firebrick;
+    text-align: center;
+    font-size: 18px;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+ }
